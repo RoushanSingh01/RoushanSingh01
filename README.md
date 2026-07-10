@@ -19,7 +19,7 @@
 
 ```typescript
 const roushanSingh = {
-  title: "Data Science and AI Student",
+  title: "Computer Science Student",
   specialization: "BS Data Science & Applications @ IITM",
   stack: {
     languages: ["Python", "TypeScript", "HTML", "CSS", "SQL"],
