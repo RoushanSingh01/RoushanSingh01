@@ -2,14 +2,12 @@
 
 <img src="https://vercel.app" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://demolab.com" alt="Typing SVG" />
-</a>
+<img src="https://demolab.com" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=RoushanSingh01&label=Profile%20Views&color=9d4edd&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/RoushanSingh01?label=Followers&style=for-the-badge&color=9d4edd" alt="Followers"/>
+<img src="https://komarev.com" alt="Profile Views"/>
+<img src="https://shields.io" alt="Followers"/>
 
 </div>
 
@@ -43,95 +41,56 @@ const roushanSingh = {
 ### 🐍 python-learning-journey
 > CS50P exercises, programming fundamentals, and projects.
 
-<table>
-<tr>
-<td>
+<p align="left">
+  <a href="https://github.com">
+    <img src="https://vercel.app" height="120" />
+  </a>
+</p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RoushanSingh01&repo=python-learning-journey&theme=nord&border_color=9d4edd&title_color=9d4edd&icon_color=9d4edd)](https://github.com/RoushanSingh01/python-learning-journey)
-
-</td>
-<td>
-
-| Layer | Technology |
-|---|---|
-| Language | Python |
-| Focus | Programming Fundamentals |
-| Source | CS50P Exercises |
-
-**🔗 [Code](https://github.com/RoushanSingh01/python-learning-journey)**
-
-</td>
-</tr>
-</table>
+* **Focus:** Programming Fundamentals / CS50P Exercises
+* 🔗 **[View Repository](https://github.com)**
 
 ---
 
 ### 📈 Oracle
 > A project revolving around crypto assets and tracking Bitcoin prices.
 
-<table>
-<tr>
-<td>
+<p align="left">
+  <a href="https://github.com">
+    <img src="https://vercel.app" height="120" />
+  </a>
+</p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RoushanSingh01&repo=Oracle&theme=nord&border_color=9d4edd&title_color=9d4edd&icon_color=9d4edd)](https://github.com/RoushanSingh01/Oracle)
-
-</td>
-<td>
-
-| Layer | Technology |
-|---|---|
-| Language | Python |
-| Domain | Crypto / Bitcoin Tracking |
-
-**🔗 [Code](https://github.com/RoushanSingh01/Oracle)**
-
-</td>
-</tr>
-</table>
+* **Domain:** Crypto & Bitcoin Asset Price Tracking
+* 🔗 **[View Repository](https://github.com)**
 
 ---
 
 ### 🌐 RoushanSingh01.github.io
 > Personal portfolio website hosted directly via GitHub Pages.
 
-<table>
-<tr>
-<td>
+<p align="left">
+  <a href="https://github.com">
+    <img src="https://vercel.app" height="120" />
+  </a>
+</p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RoushanSingh01&repo=RoushanSingh01.github.io&theme=nord&border_color=9d4edd&title_color=9d4edd&icon_color=9d4edd)](https://github.com/RoushanSingh01/RoushanSingh01.github.io)
-
-</td>
-<td>
-
-| Layer | Technology |
-|---|---|
-| Markup | HTML |
-| Styling | CSS |
-| Hosting | GitHub Pages |
-
-**🌍 [Live Link](https://roushansingh01.github.io)** &nbsp;|&nbsp; **🔗 [Code](https://github.com/RoushanSingh01/RoushanSingh01.github.io)**
-
-</td>
-</tr>
-</table>
+* **Tech:** HTML, CSS, GitHub Pages Hosting
+* 🌍 **[View Live Site](https://github.io)** | 🔗 **[View Repository](https://github.com)**
 
 <br/>
 
 ## 🛠️ Tech Stack
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,ts,html,css" />
-
-**Data Science & AI**
+**Languages & Core Frameworks**
 <br/>
 <img src="https://skillicons.dev" />
 
-**Databases**
+**Data Science & AI Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=sql" />
+<img src="https://skillicons.dev" />
 
-**Dev Tools**
+**Databases & Environments**
 <br/>
 <img src="https://skillicons.dev" />
 
@@ -141,10 +100,10 @@ const roushanSingh = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=RoushanSingh01&show_icons=true&theme=nord&border_color=9d4edd&title_color=9d4edd&icon_color=9d4edd&text_color=e0aaff&bg_color=0d0221" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoushanSingh01&layout=compact&theme=nord&border_color=9d4edd&title_color=9d4edd&text_color=e0aaff&bg_color=0d0221" />
+<img height="165" src="https://vercel.app" />
+<img height="165" src="https://vercel.app" />
 
-<img src="https://streak-stats.demolab.com?user=RoushanSingh01&theme=nord&border=9d4edd&ring=9d4edd&fire=9d4edd&currStreakLabel=9d4edd&background=0d0221" />
+<img src="https://demolab.com" />
 
 </div>
 
@@ -152,7 +111,7 @@ const roushanSingh = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=RoushanSingh01&theme=nord&no-frame=true&no-bg=true&row=1&column=6" />
+<img src="https://vercel.app" />
 
 </div>
 
@@ -160,7 +119,7 @@ const roushanSingh = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RoushanSingh01&theme=nord&bg_color=0d0221&color=9d4edd&line=9d4edd&point=e0aaff&hide_border=true" width="100%" />
+<img src="https://vercel.app" width="100%" />
 
 </div>
 
@@ -170,15 +129,15 @@ const roushanSingh = {
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/roushan-prakash-589bb529b/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-9d4edd?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://linkedin.com" target="_blank">
+  <img src="https://shields.io" />
 </a>
 <a href="mailto:thisisroushan01@gmail.com">
-  <img src="https://img.shields.io/badge/Email-9d4edd?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://shields.io" />
 </a>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9d4edd,100:1a0033&height=150&section=footer&animation=twinkling" width="100%"/>
+<img src="https://vercel.app" width="100%"/>
