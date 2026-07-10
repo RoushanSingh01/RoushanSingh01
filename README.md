@@ -2,7 +2,9 @@
 
 <img src="https://vercel.app" width="100%"/>
 
-<img src="https://demolab.com" alt="Typing SVG" />
+<a href="https://git.io">
+  <img src="https://demolab.com" alt="Typing SVG" />
+</a>
 
 <br/>
 
@@ -21,16 +23,17 @@ const roushanSingh = {
   specialization: ["Data Science", "Artificial Intelligence"],
   stack: {
     languages: ["Python", "TypeScript", "HTML", "CSS", "SQL"],
-    tools: ["VS Code", "Git", "GitHub"]
+    ai_ml: ["Machine Learning", "Prompt Engineering"],
+    tools: ["VS Code", "Git"],
   },
   launchedProjects: [
     "python-learning-journey — CS50P exercises & programming fundamentals",
     "Oracle — crypto asset & Bitcoin price tracker",
-    "RoushanSingh01.github.io — personal portfolio on GitHub Pages"
+    "RoushanSingh01.github.io — personal portfolio on GitHub Pages",
   ],
   certifications: [],
-  status: "Focusing on my studies & self-paced AI development",
-  openTo: "Not currently open to work"
+  status: "Focusing on my studies",
+  openTo: "Not currently open to work",
 };
 ```
 
@@ -41,56 +44,91 @@ const roushanSingh = {
 ### 🐍 python-learning-journey
 > CS50P exercises, programming fundamentals, and projects.
 
-<p align="left">
-  <a href="https://github.com">
-    <img src="https://vercel.app" height="120" />
-  </a>
-</p>
+<table>
+<tr>
+<td>
 
-* **Focus:** Programming Fundamentals / CS50P Exercises
-* 🔗 **[View Repository](https://github.com)**
+[![Readme Card](https://vercel.app)](https://github.com)
+
+</td>
+<td>
+
+| Layer | Technology |
+|---|---|
+| Language | Python |
+| Focus | Programming Fundamentals |
+| Source | CS50P Exercises |
+
+**🔗 [Code](https://github.com)**
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### 📈 Oracle
 > A project revolving around crypto assets and tracking Bitcoin prices.
 
-<p align="left">
-  <a href="https://github.com">
-    <img src="https://vercel.app" height="120" />
-  </a>
-</p>
+<table>
+<tr>
+<td>
 
-* **Domain:** Crypto & Bitcoin Asset Price Tracking
-* 🔗 **[View Repository](https://github.com)**
+[![Readme Card](https://vercel.app)](https://github.com)
+
+</td>
+<td>
+
+| Layer | Technology |
+|---|---|
+| Language | Python |
+| Domain | Crypto / Bitcoin Tracking |
+
+**🔗 [Code](https://github.com)**
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### 🌐 RoushanSingh01.github.io
 > Personal portfolio website hosted directly via GitHub Pages.
 
-<p align="left">
-  <a href="https://github.com">
-    <img src="https://vercel.app" height="120" />
-  </a>
-</p>
+<table>
+<tr>
+<td>
 
-* **Tech:** HTML, CSS, GitHub Pages Hosting
-* 🌍 **[View Live Site](https://github.io)** | 🔗 **[View Repository](https://github.com)**
+[![Readme Card](https://vercel.app)](https://github.com)
+
+</td>
+<td>
+
+| Layer | Technology |
+|---|---|
+| Markup | HTML |
+| Styling | CSS |
+| Hosting | GitHub Pages |
+
+**🌍 [Live](https://github.io)** &nbsp;|&nbsp; **🔗 [Code](https://github.com)**
+
+</td>
+</tr>
+</table>
 
 <br/>
 
 ## 🛠️ Tech Stack
 
-**Languages & Core Frameworks**
+**Languages**
 <br/>
 <img src="https://skillicons.dev" />
 
-**Data Science & AI Tools**
+**Databases**
 <br/>
 <img src="https://skillicons.dev" />
 
-**Databases & Environments**
+**Dev Tools**
 <br/>
 <img src="https://skillicons.dev" />
 
@@ -119,7 +157,7 @@ const roushanSingh = {
 
 <div align="center">
 
-<img src="https://vercel.app" width="100%" />
+<img src="https://vercel.app" />
 
 </div>
 
