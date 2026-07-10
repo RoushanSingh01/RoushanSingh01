@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://vercel.app" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:6a00b3,100:9d4edd&height=220&section=header&text=Roushan%20Singh&fontSize=55&fontColor=e0aaff&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20Student%20@%20IIITM%20Gwalior%20/%20IITM&descAlignY=55&descAlign=50" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://demolab.com" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=9D4EDD&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Exploring+Data+Structures+%26+Algorithms;Building+with+Python+%26+TypeScript;Tracking+Bitcoin+with+Oracle;CS50P+%7C+Programming+Fundamentals" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -19,12 +19,10 @@
 
 ```typescript
 const roushanSingh = {
-  title: "BS Data Science & Applications Student at IITM",
-  specialization: ["Data Science", "Artificial Intelligence"],
+  title: "Computer Science Student @ IIITM Gwalior / IITM",
   stack: {
     languages: ["Python", "TypeScript", "HTML", "CSS", "SQL"],
-    ai_ml: ["Machine Learning", "Prompt Engineering"],
-    tools: ["VS Code", "Git"],
+    tools: ["VS Code"],
   },
   launchedProjects: [
     "python-learning-journey — CS50P exercises & programming fundamentals",
@@ -48,20 +46,18 @@ const roushanSingh = {
 <tr>
 <td>
 
-[![Readme Card](https://vercel.app)](https://github.com)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RoushanSingh01&repo=python-learning-journey&theme=nord&border_color=9d4edd&title_color=9d4edd&icon_color=9d4edd)](https://github.com/RoushanSingh01/python-learning-journey)
 
 </td>
 <td>
 
 | Layer | Technology |
-| :--- | :--- |
-| **Language** | Python |
-| **Focus** | Programming Fundamentals |
-| **Source** | CS50P Exercises |
+|---|---|
+| Language | Python |
+| Focus | Programming Fundamentals |
+| Source | CS50P Exercises |
 
-<br/>
-
-🔗 **[Code Link](https://github.com)**
+**🔗 [Code](https://github.com/RoushanSingh01/python-learning-journey)**
 
 </td>
 </tr>
@@ -76,19 +72,17 @@ const roushanSingh = {
 <tr>
 <td>
 
-[![Readme Card](https://vercel.app)](https://github.com)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RoushanSingh01&repo=Oracle&theme=nord&border_color=9d4edd&title_color=9d4edd&icon_color=9d4edd)](https://github.com/RoushanSingh01/Oracle)
 
 </td>
 <td>
 
 | Layer | Technology |
-| :--- | :--- |
-| **Language** | Python |
-| **Domain** | Crypto / Bitcoin Tracking |
+|---|---|
+| Language | Python |
+| Domain | Crypto / Bitcoin Tracking |
 
-<br/>
-
-🔗 **[Code Link](https://github.com)**
+**🔗 [Code](https://github.com/RoushanSingh01/Oracle)**
 
 </td>
 </tr>
@@ -103,20 +97,18 @@ const roushanSingh = {
 <tr>
 <td>
 
-[![Readme Card](https://vercel.app)](https://github.com)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RoushanSingh01&repo=RoushanSingh01.github.io&theme=nord&border_color=9d4edd&title_color=9d4edd&icon_color=9d4edd)](https://github.com/RoushanSingh01/RoushanSingh01.github.io)
 
 </td>
 <td>
 
 | Layer | Technology |
-| :--- | :--- |
-| **Markup** | HTML |
-| **Styling** | CSS |
-| **Hosting** | GitHub Pages |
+|---|---|
+| Markup | HTML |
+| Styling | CSS |
+| Hosting | GitHub Pages |
 
-<br/>
-
-🌍 **[Live Site](https://github.io)** | 🔗 **[Code Link](https://github.com)**
+**🌍 [Live](https://github.io)** &nbsp;|&nbsp; **🔗 [Code](https://github.com/RoushanSingh01/RoushanSingh01.github.io)**
 
 </td>
 </tr>
@@ -136,7 +128,7 @@ const roushanSingh = {
 
 **Dev Tools**
 <br/>
-<img src="https://skillicons.dev" />
+<img src="https://skillicons.dev/icons?i=vscode" />
 
 <br/>
 
