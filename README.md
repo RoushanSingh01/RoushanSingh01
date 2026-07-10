@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:6a00b3,100:9d4edd&height=220&section=header&text=Roushan%20Singh&fontSize=55&fontColor=e0aaff&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20Student%20@%20IIITM%20Gwalior%20/%20IITM&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://vercel.app" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=9D4EDD&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Exploring+Data+Structures+%26+Algorithms;Building+with+Python+%26+TypeScript;Tracking+Bitcoin+with+Oracle;CS50P+%7C+Programming+Fundamentals" alt="Typing SVG" />
+  <img src="https://demolab.com" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -19,19 +19,20 @@
 
 ```typescript
 const roushanSingh = {
-  title: "Computer Science Student @ IIITM Gwalior / IITM",
+  title: "BS Data Science & Applications Student at IITM",
+  specialization: ["Data Science", "Artificial Intelligence"],
   stack: {
     languages: ["Python", "TypeScript", "HTML", "CSS", "SQL"],
-    tools: ["VS Code"],
+    tools: ["VS Code", "Git", "GitHub"]
   },
   launchedProjects: [
     "python-learning-journey — CS50P exercises & programming fundamentals",
     "Oracle — crypto asset & Bitcoin price tracker",
-    "RoushanSingh01.github.io — personal portfolio on GitHub Pages",
+    "RoushanSingh01.github.io — personal portfolio on GitHub Pages"
   ],
   certifications: [],
-  status: "Focusing on my studies",
-  openTo: "Not currently open to work",
+  status: "Focusing on my studies & self-paced AI development",
+  openTo: "Not currently open to work"
 };
 ```
 
@@ -108,7 +109,7 @@ const roushanSingh = {
 | Styling | CSS |
 | Hosting | GitHub Pages |
 
-**🌍 [Live](https://github.io)** &nbsp;|&nbsp; **🔗 [Code](https://github.com/RoushanSingh01/RoushanSingh01.github.io)**
+**🌍 [Live Link](https://roushansingh01.github.io)** &nbsp;|&nbsp; **🔗 [Code](https://github.com/RoushanSingh01/RoushanSingh01.github.io)**
 
 </td>
 </tr>
@@ -122,13 +123,17 @@ const roushanSingh = {
 <br/>
 <img src="https://skillicons.dev/icons?i=python,ts,html,css" />
 
+**Data Science & AI**
+<br/>
+<img src="https://skillicons.dev" />
+
 **Databases**
 <br/>
 <img src="https://skillicons.dev/icons?i=sql" />
 
 **Dev Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev" />
 
 <br/>
 
@@ -155,7 +160,7 @@ const roushanSingh = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RoushanSingh01&theme=nord&bg_color=0d0221&color=9d4edd&line=9d4edd&point=e0aaff&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RoushanSingh01&theme=nord&bg_color=0d0221&color=9d4edd&line=9d4edd&point=e0aaff&hide_border=true" width="100%" />
 
 </div>
 
