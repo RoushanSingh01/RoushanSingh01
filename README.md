@@ -1,150 +1,161 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:2d004d,100:b026ff&height=220&section=header&text=Roushan%20Singh&fontSize=55&fontColor=c77dff&animation=twinkling&fontAlignY=35&desc=BS%20Data%20Science%20%26%20Applications%20Student%20@%20IITM&descAlignY=55&descAlign=50" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=24,30,14,17,19&text=Roushan%20Singh&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20•%20Artificial%20Intelligence%20•%20Machine%20Learning&descAlignY=58"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=B026FF&center=true&vCenter=true&width=650&background=000000&lines=BS+Data+Science+%26+Applications+Student;Exploring+Machine+Learning+%26+Prompt+Engineering;Building+with+Python+%26+TypeScript;Tracking+Bitcoin+with+Oracle;CS50P+%7C+Programming+Fundamentals" alt="Typing SVG" />
-</a>
+# 👋 Hi, I'm Roushan Singh
 
-<br/>
+### BS Data Science & Applications Student @ IIT Madras
 
-<img src="https://komarev.com/ghpvc/?username=RoushanSingh01&label=Profile%20Views&color=b026ff&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/RoushanSingh01?label=Followers&style=for-the-badge&color=b026ff&labelColor=000000" alt="Followers"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=C77DFF&center=true&vCenter=true&width=750&lines=Data+Science+%26+AI+Student;Building+with+Python+%26+TypeScript;Learning+Machine+Learning+Every+Day;Exploring+Artificial+Intelligence;CS50P+%7C+IITM+BS+Journey;Future+AI+Engineer"/>
+
+<br>
+
+<img src="https://img.shields.io/github/followers/RoushanSingh01?style=for-the-badge&color=9D4EDD&labelColor=0D1117"/>
+
+<img src="https://komarev.com/ghpvc/?username=RoushanSingh01&style=for-the-badge&color=9D4EDD"/>
 
 </div>
 
-<br/>
+---
 
-## 👨‍💻 Who I Am
+# 💫 About Me
 
 ```typescript
-const roushanSingh = {
-  title: "Computer Science Student",
-  specialization: "BS Data Science & Applications @ IITM",
-  stack: {
-    languages: ["Python", "TypeScript", "HTML", "CSS", "SQL"],
-    ai_ml: ["Machine Learning", "Prompt Engineering"],
-    tools: ["VS Code", "Git", "GitHub"],
-  },
-  launchedProjects: [
-    "python-learning-journey — CS50P exercises & programming fundamentals",
-    "Oracle — crypto asset & Bitcoin price tracker",
-    "RoushanSingh01.github.io — personal portfolio on GitHub Pages",
-  ],
-  certifications: [],
-  status: "Focusing on my studies",
-  openTo: "Not currently open to work",
-};
+const roushan = {
+
+    role: "Data Science & AI Student",
+
+    education:
+        "BS Data Science & Applications @ IIT Madras",
+
+    currentlyLearning: [
+        "Python",
+        "Machine Learning",
+        "Flask",
+        "TypeScript",
+        "SQL",
+        "Prompt Engineering"
+    ],
+
+    currentlyBuilding: [
+        "Python Learning Journey",
+        "Oracle — Bitcoin Price Tracker",
+        "Personal Portfolio Website"
+    ],
+
+    interests: [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Backend Development",
+        "Open Source"
+    ],
+
+    goal:
+        "Become an AI Engineer building intelligent systems that create real-world impact."
+}
 ```
 
-<br/>
+---
 
-## 🚀 Featured Projects
+# 🎯 Current Focus
 
-### 🐍 python-learning-journey
-> CS50P exercises, programming fundamentals, and projects.
+- 🎓 Pursuing **BS Data Science & Applications** from **IIT Madras**
+- 🐍 Strengthening Python through **CS50P**
+- 🤖 Learning **Machine Learning & Artificial Intelligence**
+- 🌐 Building web applications with **Flask**
+- 📚 Improving problem-solving and software engineering skills every day
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RoushanSingh01&repo=python-learning-journey&theme=radical&bg_color=000000&border_color=b026ff&title_color=b026ff&icon_color=b026ff&text_color=c77dff)
+---
 
-**Layer | Technology**
-- Language — Python
-- Focus — Programming Fundamentals
-- Source — CS50P Exercises
+# 🛠 Tech Stack
 
-🔗 **[Code](https://github.com/RoushanSingh01/python-learning-journey)**
+### Languages
 
-<br/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,ts,html,css,js,sqlite&theme=dark"/>
+</p>
 
-### 📈 Oracle
-> A project revolving around crypto assets and tracking Bitcoin prices.
+### Frameworks & Libraries
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RoushanSingh01&repo=Oracle&theme=radical&bg_color=000000&border_color=b026ff&title_color=b026ff&icon_color=b026ff&text_color=c77dff)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=flask&theme=dark"/>
+</p>
 
-**Layer | Technology**
-- Language — Python
-- Domain — Crypto / Bitcoin Tracking
+### Tools
 
-🔗 **[Code](https://github.com/RoushanSingh01/Oracle)**
+<p align="left">
+<img src="https://skillicons.dev/icons?i=vscode,git,github,linux&theme=dark"/>
+</p>
 
-<br/>
+### Currently Exploring
 
-### 🌐 RoushanSingh01.github.io
-> Personal portfolio website hosted directly via GitHub Pages.
+<p align="left">
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RoushanSingh01&repo=RoushanSingh01.github.io&theme=radical&bg_color=000000&border_color=b026ff&title_color=b026ff&icon_color=b026ff&text_color=c77dff)
+<img src="https://img.shields.io/badge/Machine%20Learning-111111?style=for-the-badge&logo=tensorflow&logoColor=C77DFF"/>
 
-**Layer | Technology**
-- Markup — HTML
-- Styling — CSS
-- Hosting — GitHub Pages
+<img src="https://img.shields.io/badge/Prompt%20Engineering-111111?style=for-the-badge&logo=openai&logoColor=C77DFF"/>
 
-🌍 **[Live](https://github.io)** &nbsp;|&nbsp; 🔗 **[Code](https://github.com/RoushanSingh01/RoushanSingh01.github.io)**
+</p>
 
-<br/>
+---
 
-## 🛠️ Tech Stack
+# 🚀 Featured Projects
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,ts,html,css&theme=dark" />
+## 🐍 Python Learning Journey
 
-**Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=sql&theme=dark" />
+Programming fundamentals, CS50P exercises and Python projects.
 
-**AI / ML**
-<br/>
-<img src="https://img.shields.io/badge/Machine_Learning-000000?style=for-the-badge&logo=tensorflow&logoColor=b026ff" />
-<img src="https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge&logo=openai&logoColor=b026ff" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=RoushanSingh01&repo=python-learning-journey&theme=radical&bg_color=000000&border_color=9D4EDD&title_color=C77DFF&icon_color=C77DFF&text_color=E0AAFF"/>
 
-**Dev Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" />
+**Highlights**
 
-<br/>
+- Python Fundamentals
+- Problem Solving
+- CS50P Exercises
+- Object-Oriented Programming
 
-## 📊 GitHub Stats
+🔗 Repository:
+https://github.com/RoushanSingh01/python-learning-journey
 
-<div align="center">
+---
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=RoushanSingh01&show_icons=true&theme=radical&bg_color=000000&border_color=b026ff&title_color=b026ff&icon_color=b026ff&text_color=c77dff" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoushanSingh01&layout=compact&theme=radical&bg_color=000000&border_color=b026ff&title_color=b026ff&text_color=c77dff" />
+## 📈 Oracle
 
-<img src="https://streak-stats.demolab.com?user=RoushanSingh01&theme=dark&background=000000&border=b026ff&ring=b026ff&fire=b026ff&currStreakLabel=b026ff&sideLabels=c77dff&dates=7b2cbf" />
+A Python project focused on cryptocurrency and Bitcoin price tracking.
 
-</div>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=RoushanSingh01&repo=Oracle&theme=radical&bg_color=000000&border_color=9D4EDD&title_color=C77DFF&icon_color=C77DFF&text_color=E0AAFF"/>
 
-## 🏆 Trophies
+**Highlights**
 
-<div align="center">
+- Python
+- APIs
+- JSON
+- Bitcoin Market Data
 
-<img src="https://github-profile-trophy.vercel.app/?username=RoushanSingh01&theme=dracula&no-frame=true&no-bg=true&row=1&column=6" />
+🔗 Repository:
+https://github.com/RoushanSingh01/Oracle
 
-</div>
+---
 
-## 📈 Contribution Graph
+## 🌐 Personal Portfolio
 
-<div align="center">
+Personal portfolio website built using HTML & CSS and hosted with GitHub Pages.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RoushanSingh01&theme=react-dark&bg_color=000000&color=b026ff&line=b026ff&point=c77dff&hide_border=true" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=RoushanSingh01&repo=RoushanSingh01.github.io&theme=radical&bg_color=000000&border_color=9D4EDD&title_color=C77DFF&icon_color=C77DFF&text_color=E0AAFF"/>
 
-</div>
+**Highlights**
 
-<br/>
+- Responsive Design
+- HTML
+- CSS
+- GitHub Pages
 
-## 🤝 Connect With Me
+🌍 Live Website
 
-<div align="center">
+https://RoushanSingh01.github.io
 
-<a href="https://linkedin.com" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=b026ff" />
-</a>
-<a href="mailto:thisisroushan01@gmail.com">
-  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=b026ff" />
-</a>
+🔗 Repository
 
-</div>
+https://github.com/RoushanSingh01/RoushanSingh01.github.io
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:b026ff,50:2d004d,100:000000&height=150&section=footer&animation=twinkling" width="100%"/>
+---
