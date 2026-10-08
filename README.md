@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=5,12,18,24,30&text=Roushan%20Singh&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Embodied%20AI%20•%20Autonomous%20Robotics%20•%20Deep%20Learning%20Systems&descAlignY=60&descSize=19"/>
+<img width="100%" src="./banner.svg" alt="Roushan Singh - Embodied AI & Robotics" />
 
 # ⚡ Roushan Singh
 
