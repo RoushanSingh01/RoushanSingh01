@@ -24,6 +24,17 @@
 
 ## 🧭 About Me
 
+> **"Architecting embodied AI agents and autonomous robotic platforms that scale from first-principles math to production hardware."**
+
+- 🎓 **Academic Base:** Pursuing **BS in Data Science & Applications** at **IIT Madras**, grounding algorithms in rigorous linear algebra, probability, and optimization.
+- 🤖 **Frontier Focus:** Embodied AI, real-time robotic kinematics, sensor fusion, and spatial simulation (Three.js, Isaac Sim, Gazebo).
+- ⚙️ **Systems Engineering:** Building fault-tolerant, high-concurrency platforms with distributed caches, asynchronous worker queues, and offline-first client engines.
+- 🎯 **Long-term Vision:** Founding an AI/Robotics deeptech venture combining computational frontier intelligence with sustainable hardware economics.
+
+<details>
+<summary><b>🔍 Click to expand: View Machine-Level Profile Architecture (TypeScript Spec)</b></summary>
+<br>
+
 ```typescript
 interface DeepTechProfile {
   identity: string;
@@ -62,6 +73,8 @@ const roushan: DeepTechProfile = {
   }
 };
 ```
+
+</details>
 
 ---
 
