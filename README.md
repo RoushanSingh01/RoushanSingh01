@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="./banner.svg" alt="Roushan Singh - Embodied AI & Robotics" />
+<img width="100%" src="./banner.gif" alt="Roushan Singh - Embodied AI & Robotics" />
 
 # ⚡ Roushan Singh
 
